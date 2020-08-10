@@ -1,8 +1,8 @@
 # Picks a random comment from your choice of a video.
 
-# - [x] You choose the video.
-# - [x] Easy to use.
-# - [x] Fast af.
+## - [x] You choose the video.
+## - [x] Easy to use.
+## - [x] Fast af.
 
 # Steps
 
