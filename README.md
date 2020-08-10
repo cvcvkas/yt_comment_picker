@@ -14,4 +14,4 @@
 
 # GIF Example
 
-![Imgur](https://i.imgur.com/q9JBvln.gifv)
+![Imgur](https://github.com/lowylow/yt_comment_picker/blob/master/youtube_comment_picker.gif)
