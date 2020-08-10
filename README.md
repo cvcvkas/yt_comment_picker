@@ -11,3 +11,7 @@
 ## 3. Go to your choice of a [youtube video](https://www.youtube.com/watch?v=oHg5SJYRHA0).
 ## 4. Scroll down as much as you want.
 ## 5. Press ENTER and boom.
+
+# GIF Example
+
+![Example Usage](https://imgur.com/a/drLrIvS)
