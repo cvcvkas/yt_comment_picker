@@ -14,4 +14,4 @@
 
 # GIF Example
 
-![Example Usage](https://imgur.com/a/drLrIvS)
+![Example Usage](https://imgur.com/gallery/drLrIvS)
