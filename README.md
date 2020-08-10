@@ -14,4 +14,4 @@
 
 # GIF Example
 
-![Example Usage](https://imgur.com/gallery/drLrIvS)
+![Example Usage](https://thumbs.gfycat.com/SafeJoyousIrishwaterspaniel-mobile.mp4)
