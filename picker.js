@@ -1,8 +1,8 @@
 console.clear();
-console.log('Thanks for using lowhatex's script. github.com/lowylow');
+console.log("Thanks for using lowhatex's script. github.com/lowylow");
 
 let pickfrom = [];
-let comments = Array.from(document.querySelectorAll(’#author-text > span’));
+let comments = Array.from(document.querySelectorAll("#author-text > span"));
 comments.forEach( comment => {
 pickfrom.push(comment);
 });
