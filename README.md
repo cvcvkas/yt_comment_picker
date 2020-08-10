@@ -14,4 +14,4 @@
 
 # GIF Example
 
-![Example Usage](https://i.imgur.com/q9JBvln.gifv)
+[Imgur](https://i.imgur.com/q9JBvln.gifv)
